@@ -1,0 +1,75 @@
+
+               <div class="row">
+                
+                            <!-- باخد عمودين عشان اجيب اللي بعده في النص ... هياخد مساحة عمودين بس مش هيبقي بطبيعته و ياخد السطر كله لما كان بلوك -->
+                            <div class="col-md-2"></div>
+                            <div class="col-md-8 col-sm-12">
+                                <!-- mt-5 a5tsar l margin top w -5 y3ny 5em -->
+                                    <div class="card mt-5">
+                                            <div class="card-header">Moo ,s</div>
+                                            <div class="card-body">Lorem ipsum dolor,
+                                                 sit amet consectetur adipisicing elit.
+                                                  Ad nobis facere quisquam porro commodi corrupti,
+                                                   cum perferendis dignissimos earum veritatis,
+                                                    velit doloribus dolores. Maiores placeat corporis ipsa eaque, error quasi.</div>
+                            
+                                        </div>
+                            
+                            </div>
+               </div>
+               <div class="row">
+                
+                                <!-- باخد عمودين عشان اجيب اللي بعده في النص ... هياخد مساحة عمودين بس مش هيبقي بطبيعته و ياخد السطر كله لما كان بلوك -->
+                                <div class="col-md-2"></div>
+                                <div class="col-md-8 col-sm-12">
+                                    <!-- mt-5 a5tsar l margin top w -5 y3ny 5em -->
+                                        <div class="card mt-5">
+                                                <div class="card-header">Moo ,s</div>
+                                                <div class="card-body">Lorem ipsum dolor,
+                                                     sit amet consectetur adipisicing elit.
+                                                      Ad nobis facere quisquam porro commodi corrupti,
+                                                       cum perferendis dignissimos earum veritatis,
+                                                        velit doloribus dolores. Maiores placeat corporis ipsa eaque, error quasi.</div>
+                                
+                                            </div>
+                                
+                                </div>
+               </div>
+               <div class="row">
+                
+                                    <!-- باخد عمودين عشان اجيب اللي بعده في النص ... هياخد مساحة عمودين بس مش هيبقي بطبيعته و ياخد السطر كله لما كان بلوك -->
+                                    <div class="col-md-2"></div>
+                                    <div class="col-md-8 col-sm-12">
+                                        <!-- mt-5 a5tsar l margin top w -5 y3ny 5em -->
+                                            <div class="card mt-5">
+                                                    <div class="card-header">Moo ,s</div>
+                                                    <div class="card-body">Lorem ipsum dolor,
+                                                         sit amet consectetur adipisicing elit.
+                                                          Ad nobis facere quisquam porro commodi corrupti,
+                                                           cum perferendis dignissimos earum veritatis,
+                                                            velit doloribus dolores. Maiores placeat corporis ipsa eaque, error quasi.</div>
+                                    
+                                                </div>
+                                    
+                                    </div>
+               </div>
+
+               <div class="row">
+                
+                <!-- باخد عمودين عشان اجيب اللي بعده في النص ... هياخد مساحة عمودين بس مش هيبقي بطبيعته و ياخد السطر كله لما كان بلوك -->
+                <div class="col-md-2"></div>
+                <div class="col-md-8 col-sm-12">
+                    <!-- mt-5 a5tsar l margin top w -5 y3ny 5em -->
+                        <div class="card mt-5">
+                                <div class="card-header">Moo ,s</div>
+                                <div class="card-body">Lorem ipsum dolor,
+                                     sit amet consectetur adipisicing elit.
+                                      Ad nobis facere quisquam porro commodi corrupti,
+                                       cum perferendis dignissimos earum veritatis,
+                                        velit doloribus dolores. Maiores placeat corporis ipsa eaque, error quasi.</div>
+                
+                            </div>
+                
+                </div>
+               </div>
+        </div>
