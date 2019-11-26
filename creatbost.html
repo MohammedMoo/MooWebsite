@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MooSite</title>
+    <link rel="stylesheet" href="./libs/fontawesome-free-5.11.2-web/css/all.min.css">
+    <link rel="stylesheet" href="./css/app.css">
+    <link rel="stylesheet" href="./libs/bootstrap/css/bootstrap.css">
+    <link rel = "stylesheet icon" href = "./img/modern-icon-solution-letter-m-png_83434.jpg">
+
+</head>
+<body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">Bootstrap</a>
+                <button 
+                    class="navbar-toggler" 
+                    type="button" 
+                    data-toggle="collapse" >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+    
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item " >
+                            <a class="nav-link" href="./bootstrab6.html">All posts</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="./creatbost.html">Creat Post </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </nav>
+        <div class="container">
+                <div class="row">
+                
+                        <!-- باخد عمودين عشان اجيب اللي بعده في النص ... هياخد مساحة عمودين بس مش هيبقي بطبيعته و ياخد السطر كله لما كان بلوك -->
+                        <div class="col-md-2"></div>
+                        <div class="col-md-8 col-sm-12">
+                            <!-- mt-5 a5tsar l margin top w -5 y3ny 5em -->
+                                <div class="card mt-5">
+                                    <div class="alert alert-success d-none">Post Created ya om Diaa :)</div>
+                                        <div class="card-header ">Creat post ya om Diaa</div>
+                                        <div class="card-body">
+                                            <form class="form">
+                                                <div class="form-group">
+                                                    <label for="text">
+                                                        Title
+                                                    </label>
+                                                    <!-- required de may3ml4 submet aw ylode l7aga mn 8er ma ymla el input -->
+                                                    <!-- title -->
+                                                    <input type="text" class="form-control" placeholder="Post title" id="text">
+
+
+                                                </div>
+                                                <!--  -->
+                                                <div class="form-group">
+                                                        <label for="body">
+                                                            Body
+                                                        </label>
+                                                        <!-- the body -->
+                                                        <!-- اشيل المسافيه اللي بين الفاتحه و القافله عشان هو بيعتبر اني عامل مسافه لو سبت مسافه -->
+                                                       <!-- rows=5 dy l3dd elstor ell hayktb feha el user -->
+                                                        <textarea 
+                                                        
+                                                        rows="5"
+                                                         class="form-control"
+                                                          placeholder="Post title" 
+                                                          id="body"
+                                                          ></textarea>
+    
+    
+                                                    </div>
+                                                    <!--  -->
+                                                    <div class="form-group">
+                                                        <!-- class create-post da ll js 34an a4a8l elfn lma agy ados 3leh m4 y3ml submet w 5las -->
+                                                        <button class="btn btn-success create-post" type="submit">Creat post</button>
+                                                    </div>
+                                            </form>
+                                        </div>
+                        
+                                    </div>
+                        
+                        </div>
+                </div>
+        </div>
+    
+    
+<!-- lazem a5lly mlaf el java fe ala5r 2bl el jQuery and bootstrap -->
+    <script src="./libs/jquery/jquery-3.4.1.js"></script>
+    <script src="./libs/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/app2.js"></script>
+
+
+</body>
+</html>
